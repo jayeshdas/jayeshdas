@@ -74,7 +74,7 @@
 <h3 align="center">Connect with me 🤝</h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/jayeshdas/">
+  <a target="_blank" href="https://www.linkedin.com/in/jayesh-das/">
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
   <a target="_blank" href="https://github.com/jayeshdas">
