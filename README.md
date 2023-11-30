@@ -9,7 +9,7 @@
 
 ### About Me
 
-- 🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
+- 🔭 Working at [Finrise Softech](https://www.linkedin.com/company/fin-rise-softech-pvt-ltd/mycompany/verification/)
 - 💬 Ask me about **Django, Node.js, Microservices, Redis,Python,ReactJS and Kafka**
 - 📫 How to reach me: [jayeshdas786@gmail.com](mailto:jayeshdas786@gmail.com)
 - 📄 [Resume](https://github.com/jayeshdas/jayeshdas/blob/main/jayeshdas_resume.pdf)
@@ -49,15 +49,12 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="kubernetes" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
+  </a>  
 </p>
 
 ---
