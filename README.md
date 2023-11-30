@@ -58,14 +58,15 @@
 </p>
 
 ---
-
+<!--
 <br/>
 
-<!-- GitHub Stats Section -->
+
 ![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jayeshdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Your Repository's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayeshdas&layout=compact&theme=dark&card_width=400)
 
 <br/>
+-->
 
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me 🤝</h3>
