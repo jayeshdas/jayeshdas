@@ -80,7 +80,7 @@
   <a target="_blank" href="https://github.com/jayeshdas">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
   </a>
-  <a target="_blank" href="https://instagram.com/jayesh_das">
+  <a target="_blank" href="https://instagram.com/jayesh_das_">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
   </a>
 </p>
