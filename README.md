@@ -60,14 +60,8 @@
 
 ---
 <!--
-<br/>
 
 
-![Your Repository's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jayeshdas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Your Repository's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayeshdas&layout=compact&theme=dark&card_width=400)
-
-<br/>
--->
 <details open="">
 <summary>
  📔 GitHub Stats:
@@ -83,6 +77,7 @@
 </p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshdas&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="jayeshdas" /></p>
 </details>
+-->
 
 <!-- Connect with Me Section -->
 <h3 align="center">Connect with me 🤝</h3>
