@@ -13,7 +13,7 @@
 - 🔭 Working at [Finrise Softech](https://www.linkedin.com/company/fin-rise-softech-pvt-ltd/mycompany/verification/)
 - 💬 Ask me about **Django, Node.js, Microservices, Redis,Python,ReactJS and Kafka**
 - 📫 How to reach me: [jayeshdas786@gmail.com](mailto:jayeshdas786@gmail.com)
-- 📄 [Resume](https://github.com/jayeshdas/jayeshdas/blob/main/jayeshdas_resume.pdf)
+- 📄 [Resume](https://github.com/jayeshdas/jayeshdas/blob/main/Jayesh-Das-Resume-2024.pdf)
 
 <br/>
 
