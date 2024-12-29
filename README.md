@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🔭 Working at [Finrise Softech](https://www.linkedin.com/company/fin-rise-softech-pvt-ltd/mycompany/verification/)
+- 🔭 Working at [ACL Digital - AFour](https://www.linkedin.com/company/acl-digital/)
 - 💬 Ask me about **Django, Node.js, Microservices, Redis,Python,ReactJS and Kafka**
 - 📫 How to reach me: [jayeshdas786@gmail.com](mailto:jayeshdas786@gmail.com)
 - 📄 [Resume](https://github.com/jayeshdas/jayeshdas/blob/main/Jayesh-Das-Resume-2024.pdf)
@@ -89,7 +89,7 @@
   <a target="_blank" href="https://github.com/jayeshdas">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
   </a>
-  <a target="_blank" href="https://instagram.com/jayesh_das_">
+  <a target="_blank" href="https://instagram.com/_djayesh">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
   </a>
 </p>
