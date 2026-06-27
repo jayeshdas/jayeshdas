@@ -1,95 +1,180 @@
-<!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm Jayesh</h1>
-<h3 align="center">Passionate Software Developer from Mumbai, India</h3>
+<div align="center">
 
-<!-- Introduction Section -->
+# Hi, I'm Jayesh Das 👋
+
+### Senior Software Engineer • AI • Cloud • Data Engineering
+
+Building scalable AI platforms, cloud-native applications, and modern data engineering solutions.
+
+<p>
+
+<a href="mailto:jayeshdas786@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jayesh-das/">
+<img src="https://img.shields.io/badge/LinkedIn-Jayesh_Das-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jayeshdas">
+<img src="https://img.shields.io/github/followers/jayeshdas?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer;Building+AI+Powered+Applications;Cloud+Architecture+%7C+AWS+%7C+Azure;Microsoft+Fabric+%7C+Snowflake;Backend+Engineer+%7C+Python+Developer"/>
+
+</div>
+
+---
+
+# About Me
+
+I'm a Senior Software Engineer with experience designing scalable backend systems, AI-powered applications, and enterprise cloud solutions.
+
+My primary focus is building reliable software that combines cloud architecture, data engineering, and Generative AI to solve real business problems.
+
+### Currently Working On
+
+- AI Agents
+- Large Language Models (LLMs)
+- Microsoft Fabric
+- Snowflake Data Engineering
+- Azure Data Factory
+- Cloud-native Microservices
+- AWS & Azure Architecture
+
+---
+
+# Technology Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,flask"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
+
+## Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
+
+### Data Engineering
+
+- Snowflake
+- Microsoft Fabric
+- Azure Data Factory
+- SQL Server
+- PostgreSQL
+
+### Messaging
+
+- Apache Kafka
+- RabbitMQ
+- Redis Streams
+
+### AI
+
+- OpenAI
+- Azure OpenAI
+- LangChain
+- LangGraph
+- MCP
+- RAG
+- Vector Databases
+- AI Agents
+
+---
+
+# Professional Expertise
+
+✔ AI Application Development
+
+✔ Enterprise Backend Development
+
+✔ Cloud Architecture
+
+✔ REST APIs
+
+✔ Event Driven Systems
+
+✔ Data Pipelines
+
+✔ ETL Solutions
+
+✔ Distributed Systems
+
+✔ Microservices
+
+✔ Performance Optimization
+
+---
+
+# Featured Projects
+
+### AI & GenAI
+
+- AI Document Intelligence
+- Multi-Agent Applications
+- Prompt Engineering Frameworks
+- LLM Integrations
+
+### Cloud
+
+- AWS Serverless Applications
+- Azure Cloud Solutions
+- Secure Authentication Systems
+
+### Data Engineering
+
+- Microsoft Fabric Pipelines
+- Snowflake ETL Pipelines
+- Enterprise Billing Automation
+
+---
+
+# Let's Connect
+
 <p align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
 
+<a href="https://www.linkedin.com/in/jayesh-das/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-### About Me
+<a href="mailto:jayeshdas786@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
 
-- 🔭 Working at [ACL Digital - AFour](https://www.linkedin.com/company/acl-digital/)
-- 💬 Ask me about **Django, Node.js, Microservices, Redis,Python,ReactJS and Kafka**
-- 📫 How to reach me: [jayeshdas786@gmail.com](mailto:jayeshdas786@gmail.com)
-- 📄 [Resume](https://github.com/jayeshdas/jayeshdas/blob/main/Jayesh-Das-Resume-2024.pdf)
+<a href="https://github.com/jayeshdas">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-<br/>
-
-<!-- Skills Section -->
-### 🔨 Languages and Tools:
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nodejs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-</p>
-
-<br/>
-
-<!-- Deployment Section -->
-### Deploy ⚙
-
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-  </a>  
 </p>
 
 ---
-<!--
 
+<div align="center">
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/jayeshdas">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=jayeshdas&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/jayeshdas">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshdas&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshdas&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="jayeshdas" /></p>
-</details>
--->
+*"Building scalable software with AI, Cloud, and Data."*
 
-<!-- Connect with Me Section -->
-<h3 align="center">Connect with me 🤝</h3>
+</div>
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/jayesh-das/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-  </a>
-  <a target="_blank" href="https://github.com/jayeshdas">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-  </a>
-  <a target="_blank" href="https://instagram.com/_djayesh">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-  </a>
-</p>
